@@ -1,1 +1,1 @@
-# Globe-Data-Charts
+# Charts generated with data gathered from the Valentine's day globe project
